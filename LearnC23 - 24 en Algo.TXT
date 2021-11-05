@@ -1,0 +1,12 @@
+ALGORITHME AGE V1.0
+//DECLARATION
+
+Variables: age : Entier
+
+DEBUT_ALGORITHME
+
+ecrire("entrez votre age")
+lire(age)
+ecrire("votre age est:",age)
+
+FIN_ALGORITHME
